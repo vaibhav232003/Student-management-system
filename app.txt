@@ -1,1 +1,2 @@
-
+function addStudent(name,id){ console.log("Student added : " + name+ "with ID : "+ id);
+}
